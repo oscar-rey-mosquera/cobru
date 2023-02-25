@@ -27,4 +27,14 @@ Plugin de pago cobru para prestashop
 
 ## Tutorial
 
-<img src="ImgTutorialPrestaShop/tuto-7.png" width="400px"/>
+<img src="/imagenes-tutorial/1.jpg" width="400px"/>
+
+<img src="/imagenes-tutorial/2.jpg" width="400px"/>
+
+<img src="/imagenes-tutorial/3.jpg" width="400px"/>
+
+<img src="/imagenes-tutorial/4.jpg" width="400px"/>
+
+<img src="/imagenes-tutorial/5.jpg" width="400px"/>
+
+<img src="/imagenes-tutorial/6.jpg" width="400px"/>
