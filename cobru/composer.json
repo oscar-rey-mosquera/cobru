@@ -1,0 +1,14 @@
+{
+    "name": "oscar-rey/cobru",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oscar-rey"
+        }
+    ],
+    "require": {
+        "rakit/validation": "^1.4",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
